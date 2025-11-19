@@ -1,3 +1,4 @@
+Q1
 public class Intro {
     public static void main(String[] args) {
         System.out.println("Name: Siah T. Chieyoe");
@@ -6,6 +7,7 @@ public class Intro {
     }
 }
 
+Q2
 public class Profile {
     public static void main(String[] args) {
         int age = 22;
@@ -19,6 +21,7 @@ public class Profile {
 }
 
 
+Q3
 import java.util.Scanner;
 
 public class CircleArea {
@@ -36,6 +39,7 @@ public class CircleArea {
     }
 }
 
+Q4
 
 import java.util.Scanner;
 
@@ -61,6 +65,7 @@ public class CompareNumbers {
     }
 }
 
+Q5
 import java.util.Scanner;
 
 public class GradeChecker {
@@ -87,6 +92,7 @@ public class GradeChecker {
 }
 
 
+Q6
 import java.util.Scanner;
 
 public class DayName {
@@ -113,6 +119,7 @@ public class DayName {
     }
 }
 
+Q7
 public class LoopDemo {
     public static void main(String[] args) {
         System.out.println("Using for loop:");
@@ -136,6 +143,7 @@ public class LoopDemo {
     }
 }
 
+Q8
 public class MathMethods {
 
     public static int calculateSum(int a, int b) {
@@ -157,7 +165,7 @@ public class MathMethods {
         System.out.println("The product is: " + product);
     }
 }
-
+Q9
 public class ArrayPractice {
     public static void main(String[] args) {
         System.out.println("One-dimensional Array:");
